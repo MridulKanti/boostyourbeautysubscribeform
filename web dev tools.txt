@@ -1,0 +1,42 @@
+TOOLS FOR WEB DEVELOPMENT 
+
+1) Icons:-
+
+-materialicon.com
+-feathericon.com
+
+2) Images:-
+
+-unplash.com(source)
+-pixel.com
+-pixaby.com
+-mixkit.com
+
+3) Mock APIs:-
+
+-json placeholder (use extention for compress\beautification it like - json beautifier extention)
+
+4) SEO friendly website check:-
+
+-Light House 
+-clswev.dev (matrix shift)
+
+
+5) To compress pics:-
+
+compresor.io
+jpeg optimiser.com
+tiny png
+
+6) VS code (extentions) :-
+
+-Material icon Theme (for beautification of icons in vs code)
+-Materials theme (for vs theme)
+
+7) To make design and structure of website:-
+ 
+ -whimsical.com
+
+8) To design code online:-
+
+ -codepen.io
